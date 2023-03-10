@@ -6,12 +6,30 @@
 *  **E-mail**: lannaveii@gmail.com
 *  **GitHub**: alnrm
 *  **Discord**: AlnRm#8924
-
+---------
 ## About Me ##
 I'm responsible, reliable, creative and benevolent person. I have skills in computer programs such as: Adobe Photoshop, Microsoft Office, 1C and database. I love to learn and discover new things. 
 
+--------------
 ## Skills ##
 * HTML (basic)
 * JavaScript (basic)
 * Git (basic)
+* CSS
+ ---------------
+ ## Code Example ##
+```
+div {
+    border: 2px solid lightSkyBlue;
+    width: 250px;
+}
 
+img {
+    width: 50%;
+}
+
+h3 {
+    background-color: lightBlue;
+}
+```
+---------
