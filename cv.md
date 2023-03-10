@@ -17,8 +17,10 @@ I'm responsible, reliable, creative and benevolent person. I have skills in comp
 * JavaScript (basic)
 * Git (basic)
 * CSS (basic)
+
  ---------------
  ## Code Example ##
+
 ```
 div {
     border: 2px solid lightSkyBlue;
@@ -34,9 +36,15 @@ h3 {
 }
 ```
 ---------
+
 ## Education ##
+
 * Belarusian National Technical University 
+
 -------
+
 ## English ##
+
 * B1 (process) 
+
 ----
