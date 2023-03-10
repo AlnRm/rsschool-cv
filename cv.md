@@ -16,7 +16,7 @@ I'm responsible, reliable, creative and benevolent person. I have skills in comp
 * HTML (basic)
 * JavaScript (basic)
 * Git (basic)
-* CSS
+* CSS (basic)
  ---------------
  ## Code Example ##
 ```
